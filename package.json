@@ -1,0 +1,24 @@
+{
+  "name": "delta-node",
+  "version": "1.0.0",
+  "description": "delta node prohect",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node js/app.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Manvel5/delta-node.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Manvel5/delta-node/issues"
+  },
+  "homepage": "https://github.com/Manvel5/delta-node#readme",
+  "dependencies": {
+    "jquery": "^3.2.1"
+  }
+}
